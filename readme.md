@@ -79,7 +79,7 @@ Install git if not installed and clone this repository
 ```
 # if git is not installed run first
 # $ sudo apt-get install git-core
-$ git clone https://github.com/henrique1837/ConsensysDevProgram2018
+$ git clone https://github.com/dev-bootcamp-2019/final-project-henrique1837
 # Move to the directory and open another terminal after
 $ cd ConsensysDevProgram2018
 ```
