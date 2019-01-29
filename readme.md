@@ -50,13 +50,13 @@ $ sudo apt install nodejs npm
 * Ganache-cli
 
 ```
-$ sudo npm install -g ganache-cli
+$ npm install -g ganache-cli
 ```
 
-* Truffle
+* Truffle version 4.1.14
 
 ```
-$ sudo npm install -g truffle
+$ npm install -g truffle@4.1.14
 ```
 
 * Metamask browser extension
