@@ -81,7 +81,7 @@ Install git if not installed and clone this repository
 # $ sudo apt-get install git-core
 $ git clone https://github.com/dev-bootcamp-2019/final-project-henrique1837
 # Move to the directory and open another terminal after
-$ cd ConsensysDevProgram2018
+$ cd final-project-henrique1837
 ```
 
 Start a ganache private blockchain in another terminal
